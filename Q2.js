@@ -4,4 +4,4 @@ function percentage(givenValue, totalValue) {
     var percentageformula = (givenValue / totalValue) * 100;
     console.log("Percentage is =", percentageformula);
 }
-percentage(640, 850);
+percentage(680, 850);
