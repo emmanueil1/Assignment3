@@ -2,7 +2,7 @@
 // //If the age is between 0 and 12, print "Child.
 // //" If it's between 13 and 19, print "Teenager." Otherwise, print "Adult."
 
-function determineAgeCategory(age: number)
+function determineAgeCategory(age:number)
 {
     if (age >= 0 && age <= 12)
     {
